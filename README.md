@@ -1,7 +1,7 @@
 # Experiment 04 – Compute ACF for the First 35 Lags
 
-### Name: HANIEL REENA D R
-### Register No: 2305001008
+### Name: SHANTHOSH G
+### Register No: 2305003008
 
 ## Aim
 To compute and plot the AutoCorrelation Function (ACF) of a time-series dataset for the first 35
